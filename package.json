@@ -1,6 +1,6 @@
 {
-  "name": "movie_lib",
-  "homepage": "https://professorjonathan.github.io/projeto_Biblioteca_de_Filmes/",
+  "name": "projeto_biblioteca_de_filmes",
+  "homepage": "https://professorjonathan.github.io/projeto_biblioteca_de_filmes/",
   "private": true,
   "version": "0.0.0",
   "scripts": {
